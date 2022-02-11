@@ -1,0 +1,230 @@
+{
+"aex": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/aex/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/aex/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/aex/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/aex/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/aex/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/aex/"
+}
+],
+"aicp": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/aicp/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/aicp/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/aicp/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/aicp/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/aicp/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/aicp/"
+}
+],
+"arcana": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/arcana/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/arcana/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/arcana/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/arcana/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/arcana/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/arcana/"
+}
+],
+"arrow": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/arrow/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/arrow/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/arrow/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/arrow/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/arrow/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/arrow/"
+}
+],
+"awaken": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/awaken/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/awaken/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/awaken/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/awaken/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/awaken/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/awaken/"
+}
+],
+"bliss": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/bliss/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/bliss/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/bliss/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/bliss/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/bliss/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/bliss/"
+}
+],
+"cherish": [
+{
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/cherish/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/cherish/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/cherish/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/cherish/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/cherish/"
+}
+],
+"cipher": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/cipher/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/cipher/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/cipher/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/cipher/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/cipher/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/cipher/"
+}
+],
+"crdroid": [
+{
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/crdroid/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/crdroid/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/crdroid/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/crdroid/"
+}
+],
+"derp": [
+{
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/derp/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/derp/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/derp/"
+}
+],
+"evolution": [
+{
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/evolution/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/evolution/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/evolution/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/evolution/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/evolution/"
+}
+],
+"exthmui": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/exthmui/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/exthmui/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/exthmui/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/exthmui/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/exthmui/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/exthmui/"
+}
+],
+"hentai": [
+{
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/hentai/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/hentai/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/hentai/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/hentai/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/hentai/"
+}
+],
+"lighthouse": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/lighthouse/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/lighthouse/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/lighthouse/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/lighthouse/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/lighthouse/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/lighthouse/"
+}
+],
+"lineage": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/lineage/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/lineage/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/lineage/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/lineage/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/lineage/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/lineage/"
+}
+],
+"nitrogen": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/nitrogen/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/nitrogen/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/nitrogen/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/nitrogen/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/nitrogen/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/nitrogen/"
+}
+],
+"octavi": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/octavi/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/octavi/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/octavi/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/octavi/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/octavi/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/octavi/"
+}
+],
+"pixysos": [
+{
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/pixysos/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/pixysos/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/pixysos/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/pixysos/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/pixysos/"
+}
+],
+"potato": [
+{
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/potato/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/potato/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/potato/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/potato/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/potato/"
+}
+],
+"ppui": [
+{
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/ppui/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/ppui/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/ppui/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/ppui/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/ppui/"
+}
+],
+"radiant": [
+{
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/radiant/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/radiant/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/radiant/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/radiant/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/radiant/"
+}
+],
+"spark": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/spark/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/spark/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/spark/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/spark/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/spark/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/spark/"
+}
+],
+"superior": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/superior/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/superior/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/superior/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/superior/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/superior/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/superior/"
+}
+],
+"yaap": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/yaap/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/yaap/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/yaap/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/yaap",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/yaap/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/yaap/"
+}
+]
+}
