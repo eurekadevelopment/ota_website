@@ -226,5 +226,10 @@
  "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/yaap/",
  "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/yaap/"
 }
+],
+"ancient": [
+{
+ "a10_arm64_url": "https://sourceforge.net/projects/ancientrom/files/a10/",
+}
 ]
 }
