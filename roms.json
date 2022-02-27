@@ -222,7 +222,7 @@
  "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/yaap/",
  "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/yaap/",
  "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/yaap/",
- "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/yaap",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/yaap/",
  "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/yaap/",
  "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/yaap/"
 }
@@ -231,6 +231,52 @@
 {
  "a10_arm64_url": "https://sourceforge.net/projects/ancientrom/files/a10/",
  "a40_url": "https://sourceforge.net/projects/ancientrom/files/a40/"
+}
+],
+"pe": [
+{
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/pe/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/pe/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/pe/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/pe/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/pe/"
+}
+],
+"ss": [
+{
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/ss/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/ss/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/ss/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/ss/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/ss/"
+}
+],
+"elytra": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/elytra/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/elytra/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/elytra/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/elytra/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/elytra/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/elytra/"
+}
+],
+"elixier": [
+{
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/elixier/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/elixier/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/elixier/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/elixier/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/elixier/"
+}
+],
+"aospk": [
+{
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/aospk/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/aospk/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/aospk/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/aospk/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/aospk/"
 }
 ]
 }
