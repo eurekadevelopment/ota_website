@@ -278,5 +278,15 @@
  "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/aospk/",
  "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/aospk/"
 }
+],
+"elytra": [
+{
+ "a10_arm_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm/corvus/",
+ "a10_arm64_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A10/S/arm64/corvus/",
+ "a20_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20/S/corvus/",
+ "a20e_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A20e/S/corvus/",
+ "a30_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A30/S/corvus/",
+ "a40_url": "https://sourceforge.net/projects/eurekaroms/files/Samsung/A40/S/corvus/"
+}
 ]
 }
